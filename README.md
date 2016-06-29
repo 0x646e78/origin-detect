@@ -11,3 +11,4 @@ Modules to include:
 - Debug/info pages (i.e. apache/nginx error page, phpinfo)
 - Cookie data
 - DNS history
+- SSL certificates
