@@ -10,3 +10,4 @@ Modules to include:
 - SPF Records
 - Debug/info pages (i.e. apache/nginx error page, phpinfo)
 - Cookie data
+- DNS history
