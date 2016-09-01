@@ -12,3 +12,4 @@ Modules to include:
 - Cookie data
 - DNS history
 - SSL certificates
+- Crimeflare domains (http://www.crimeflare.com/cfs.html)
